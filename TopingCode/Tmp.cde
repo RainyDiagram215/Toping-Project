@@ -1,0 +1,3 @@
+Var("soft","Toping Project")
+InfoBox("SoftName Is:")
+InfoBox(soft)
